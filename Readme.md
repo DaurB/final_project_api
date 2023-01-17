@@ -47,3 +47,68 @@ gradle clean test
 
 ## Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/final_project_api/)
 
+#### Главная страница Jenkins
+
+<p align="center">
+  <img src="media/screen/jenkins_mainpage.PNG" alt="Jenkins" width="800">
+</p>
+
+Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать сейчас*</strong></code>.
+
+Результаты сборки можно посмотреть в Allure отчёте, кликнув на значок <code><strong>*Allure Report*</strong></code>.
+
+#### Значок Allure Report
+
+<p align="center">
+  <img src="media/screen/jenkins_allure.png" alt="jenkins_allure" width="800">
+</p>
+
+## Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/final_project_api/allure/)
+
+#### Главная страница Allure Report
+
+<p align="center">
+  <img src="media/screen/allure_mainpage.PNG" alt="allure_main" width="800">
+</p>
+
+#### Тесты
+
+<p align="center">
+  <img src="media/screen/allure-tests.PNG" alt="allure_tests" width="800">
+</p>
+
+#### Графики
+
+<p align="center">
+  <img src="media/screen/allure_graphs.PNG" alt="allure_graphs" width="800">
+</p>
+
+## Интеграция с [Allure TestOps](https://allure.autotests.cloud/launch/18515)
+
+#### Тест-кейсы
+
+<p align="center">
+  <img src="media/screen/testops_tests.PNG" alt="testops_tests" width="800">
+</p>
+
+#### Дашборды
+
+<p align="center">
+  <img src="media/screen/dashboards.PNG" alt="dashboards" width="800">
+</p>
+
+## Интеграция с [Jira](https://jira.autotests.cloud/browse/HOMEWORK-503)
+
+#### Задача в Jira
+
+<p align="center">
+  <img src="media/screen/jira.PNG" alt="jira" width="800">
+</p>
+
+## Уведомления в Telegram с использованием бота
+
+#### Оповещение о результатах сборки
+
+<p align="center">
+  <img src="media/screen/telegram.PNG" alt="telegram" width="800">
+</p>
