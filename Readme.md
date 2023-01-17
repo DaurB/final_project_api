@@ -74,7 +74,7 @@ gradle clean test
 #### Тесты
 
 <p align="center">
-  <img src="media/screen/allure-tests.PNG" alt="allure_tests" width="800">
+  <img src="media/screen/allure_tests.PNG" alt="allure_tests" width="800">
 </p>
 
 #### Графики
